@@ -101,6 +101,6 @@
 
 - 이메일 : itisaknife234@gmail.com
 - 블로그 : 
-- 깃허브 : <a href="https://github.com/itisaknife234">
+- 깃허브 : https://github.com/itisaknife234
 - 유튜브 :
 - Discord : Hekaton99 #9476
